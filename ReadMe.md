@@ -8,7 +8,7 @@ Welcome to my professional portfolio. This serves as a showcase for my best work
 <br>
 Project 1: Zen Spelling
 
-https://github.com/jmelanson808/ZenSpelling  
+<a href="https://github.com/jmelanson808/ZenSpelling" target="_blank">Click here to visit project repo</a>  
 NOTE: If you are running the program on your computer, you may log in as username: 'guest', password: 'spelling'.
 
 Zen Spelling is a browser-based educational game developed over a semester with 3 other collaborators under the team name Jasper. It is an interactive educational tool designed for elementary school students from grades 1-5, with its primary function as a way for teachers to augmment their grammar/spelling curriculum. Students are able to place tiles on a grid and design a beautiful garden, prompted to answer spelling challenges for each tile. Teachers have access to an administrative panel to manage student accounts and create their own spelling challenges to better match curriculum. The backend was implemented with Django and the frontend was built with vanilla Javascript.
@@ -20,7 +20,7 @@ Zen Spelling is my largest project to date, and was a significant learning exper
 <br>
 Project 2: Asteroids
 
-https://github.com/jmelanson808/Asteroids_Game  
+<a href="https://github.com/jmelanson808/Asteroids_Game" target="_blank">Click here to visit project repo</a>   
 
 This was my final project for the Data Structures & Algorithms course. It is a simple program that launches my version of the classic Asteroids game. Players use the arrow keys to control their ship, and the space key to fire. This project is a perfect exercise for object-oriented programming, featuring a class for every major component of the program (ship, bullet, asteroid, etc.), and each class handling the behavior of its object. I had to spend a lot of time designing what each object needed to do during runtime, including what it would do when certain events occured. A simple example would be moving the ship across the screen when the player pushes an arrow key, and a complex example would be how the asteroids break apart and turn into many smaller asteroids when hit by a bullet or another asteroid, each with new directions/velocity! This project helped me develop better problem solving skills, a more organized approach to designing a program, and a deeper understanding of object oriented programming.
 
