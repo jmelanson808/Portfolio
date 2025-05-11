@@ -48,15 +48,21 @@ This project decodes a text file of instructions, loading them onto various data
 To run this program, clone the repo to your IDE. Run `MelodyMain` and select `load` from the console options that appear. Enter `bach.txt` to load the instructions, then enter `play` to listen to it.
 
 <br>
-Project 5: MST Algorithms
+Project 5: Minimum Spanning Tree of US Cities
 
 <a href="https://github.com/jmelanson808/MST_Project" target="_blank">Click here to visit project repo</a> 
+
+This is the final project for my Algorithms course, and showcases my understanding of using complex data structures like priority queues to execute advanced algorithms like Prim's algorithm and Kruskal's algorithm. This program uses these techniques to find a minimum spanning tree between all US cities. This can be customized to calculate a smaller subset, like all US cities in Utah with a population greater than 25000, for example. This project illustrates the disadvantages of Prim's algorithm and how Kruskal's argorithm is more scalable since it is not dependent on vertices like Prim's. 
+
+I also used matplot and geopandas to render US shapefiles and visualize the spanning trees.
 
 
 <br>
 Project 6: Memory Manager
 
 <a href="https://github.com/jmelanson808/Memory-Manager" target="_blank">Click here to visit project repo</a> 
+
+This project, written in C, illustrates my understanding of the computer at the system-level. It is a simple memory manager that instantiates and populates a page table and TLB, drawing from a backing store when a page-fault occurs, and pairing a logical memory address with a physical page frame. The TLB utilizes a FIFO eviction protocol and greatly speeds up the memory manager's performance, acting essentially as a cache for memory addresses. 
 
 
 
