@@ -6,7 +6,21 @@ Welcome to my professional portfolio. This serves as a showcase for my best work
 4: To develop effective problem solving skills.  
 
 <br>
-Project 1: Zen Spelling
+Project 1: Ashen Legacy
+
+<a href="https://github.com/jmelanson808/Ashen-Legacy" target="_blank">Click here to visit project repo</a>
+
+Ashen Legacy is my undergraduate capstone project, and showcases my ability to design an implement a functional program using tools and languages I had no knowledge of beforehand. The capstone development phase was completed over a course of 8 months, learning the intricacies of the Godot 4.x Engine, combining extensive code with writing, art, sound design, and music. During this process, it became more apparent than ever what a monumental task creating a game is, and why it usually takes a team of talented people to make one. In its current state, Ashen Legacy has a solid foundation and core gameplay features that are stable and scalable. As a result of this, continued work on content will be streamlined and focus can be geared more towards story and art.
+
+Ashen legacy is an adventure game where player choice matters, and the various outcomes of the game’s story is not reliant on the individual player’s skill, but with the decisions they make. This fills a particular need in the gaming landscape for 2D adventure games with a low barrier for entry to enjoy.  Ashen Legacy aims to be reminiscent of ‘choose your own adventure’ gamebooks that were popular in the 80’s and 90’s, with elements of exploration and platforming between major decision points. At the time of this report, Ashen Legacy is a fully playable game application with an opening scene, character creator, and first explorable level. It is distributable locally for anyone who requests it.
+
+Click <a href="https://github.com/jmelanson808/Ashen-Legacy/blob/main/Ashen%20Legacy_%20Final%20Report.pdf" target="_blank">this link</a> to read the full Game Design Document for this project.
+
+Music in Ashen Legacy is composed by V Feeler, an undergraduate in Music Studies at Westminster University. 
+
+
+<br>
+Project 2: Zen Spelling
 
 <a href="https://github.com/jmelanson808/ZenSpelling" target="_blank">Click here to visit project repo</a>  
 NOTE: If you are running the program on your computer, you may log in as username: 'guest', password: 'spelling'.
@@ -18,7 +32,7 @@ The biggest challenge we had as a team was deciding on our tech stack, with many
 Zen Spelling is my largest project to date, and was a significant learning experience for all of us on the team. I spearheaded the majority of the design process, using Miro and Figma to create mockups, wireframes, interactive prototypes, and flowcharts for UI/UX design. I used what I learned at my internship to establish strict protocols for the development pipeline, including code reviews, feature branches, Kanban workflow, testing plans, and merging via pull requests. The majority of my development focus was on the frontend, but I still needed to be knowledgeable enough in Django to integrate my code effectively with the backend. Each member of the team worked as a cohesive unit, in constant communication via Discord and in-class standups, and teaming up when needed to push through a difficult story. The commplexity, length, and team-based approach of Zen Spelling helped me reach all of the program's learning goals, and I would love to continue improving on it in the future. 
 
 <br>
-Project 2: Asteroids
+Project 3: Asteroids
 
 <a href="https://github.com/jmelanson808/Asteroids_Game" target="_blank">Click here to visit project repo</a>   
 
