@@ -38,6 +38,28 @@ Project 3: Asteroids
 
 This was my final project for the Data Structures & Algorithms course. It is a simple program that launches my version of the classic Asteroids game. Players use the arrow keys to control their ship, and the space key to fire. This project is a perfect exercise for object-oriented programming, featuring a class for every major component of the program (ship, bullet, asteroid, etc.), and each class handling the behavior of its object. I had to spend a lot of time designing what each object needed to do during runtime, including what it would do when certain events occured. A simple example would be moving the ship across the screen when the player pushes an arrow key, and a complex example would be how the asteroids break apart and turn into many smaller asteroids when hit by a bullet or another asteroid, each with new directions/velocity! This project helped me develop better problem solving skills, a more organized approach to designing a program, and a deeper understanding of object oriented programming.
 
+<br>
+Project 4: Music Player
+
+<a href="https://github.com/jmelanson808/Asteroids_Game" target="_blank">Click here to visit project repo</a> 
+
+This project decodes a text file of instructions, loading them onto various data structures, and accessing them to play musical notes. I decided to be fancy and created an instruction set for one of Bach's Lute Suites. This project showcases my understanding of data structures like queues and stacks, and how we can use them to manipulate/execute code in any order we wish. 
+
+To run this program, clone the repo to your IDE. Run `MelodyMain` and select `load` from the console options that appear. Enter `bach.txt` to load the instructions, then enter `play` to listen to it.
+
+<br>
+Project 5: MST Algorithms
+
+<a href="https://github.com/jmelanson808/MST_Project" target="_blank">Click here to visit project repo</a> 
+
+
+<br>
+Project 6: Memory Manager
+
+<a href="https://github.com/jmelanson808/Memory-Manager" target="_blank">Click here to visit project repo</a> 
+
+
+
 
 
 
